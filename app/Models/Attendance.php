@@ -14,4 +14,7 @@ class Attendance extends Model
         "scan_at",
         "scan_by.",
     ];
+
+
+    
 }
